@@ -1,0 +1,38 @@
+
+
+Flask:
+
+pip3 install Flask
+
+
+tavern:
+
+pip3 install tavern
+
+pip3 install tavern[pytest]
+
+
+foreman:
+
+sudo apt install --yes ruby-foreman
+
+
+Sqlite:
+
+To install and run you can follow the instruction given here - 
+https://www.sqlitetutorial.net/download-install-sqlite/
+
+OR follow below instruction-
+
+Step 1: Download sqlite-shell-win32-*.zip from below link-
+https://www.sqlite.org/download.html
+
+Step 2: Create folder "sqlite" in the drive you want to keep sqlite and extract downloaded zip here.
+
+Step 3: Open the command prompt and go to the folder of sqlite in you drive. Now type sqlite3, hit enter. you are all set. 
+ 
+
+
+
+
+
